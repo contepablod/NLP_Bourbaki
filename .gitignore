@@ -193,4 +193,12 @@ pyrightconfig.json
 .ionide
 .env
 
+Semana3/Data/Reviews.csv
+Semana4/Data/Model
+Semana4/Data/Reviews.csv
+Semana4/GPT2_trips.ipynb
+Semana4/intro_gpt copy.ipynb
+Semana4/summarization_using_GPT2_supervised.ipynb
+Semana4/summarization_using_GPT2_supervised copy.ipynb
+Semana4/summarization_using_GPT2_self_supervised.ipynb
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
