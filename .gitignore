@@ -209,5 +209,6 @@ Semana1/Data/docword.nytimes.txt
 Semana1/preprocesar_vectorizar_textos_cuentos.ipynb
 Semana1/clasificador_quejas_consumidor.ipynb
 Semana1/Data/Instrucciones
+Semana1/Data/complaints.csv
 Semana1/preprocesar_vectorizar_textos_contfidf.ipynb
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
