@@ -202,13 +202,13 @@ Semana4/summarization_using_GPT2_supervised copy.ipynb
 Semana4/summarization_using_GPT2_self_supervised.ipynb
 Semana4/summarization_using_GPT2_supervised.ipynb
 Semana4/distilgpt2-finetuned-microbiology
-Semana2/
-Semana3/
-Semana4/
 Semana1/Data/docword.nytimes.txt
 Semana1/preprocesar_vectorizar_textos_cuentos.ipynb
 Semana1/clasificador_quejas_consumidor.ipynb
 Semana1/Data/Instrucciones
 Semana1/Data/complaints.csv
 Semana1/preprocesar_vectorizar_textos_contfidf.ipynb
+Semana4/microbology_text_gen.ipynb
+Semana3/Data/complete.kv
+Semana3/Data/complete.kv.vectors.npy
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
