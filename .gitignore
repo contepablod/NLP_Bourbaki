@@ -211,4 +211,5 @@ Semana1/preprocesar_vectorizar_textos_contfidf.ipynb
 Semana4/microbology_text_gen.ipynb
 Semana3/Data/complete.kv
 Semana3/Data/complete.kv.vectors.npy
+Semana3/Data/Model/s2s_model_2.pth
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
