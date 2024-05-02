@@ -212,4 +212,5 @@ Semana4/microbology_text_gen.ipynb
 Semana3/Data/complete.kv
 Semana3/Data/complete.kv.vectors.npy
 Semana3/Data/Model/s2s_model_2.pth
+Semana3/Data/Model/s2s_model.pth
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
