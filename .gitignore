@@ -205,6 +205,7 @@ Semana3/Data/Model/s2s_model_2.pth
 Semana3/Data/Model/s2s_model.pth
 Semana3/Data/Model/x_train.csv
 Semana3/Data/Model/y_train.csv
+Semana3/Data/Model/glove.6B.300d.txt
 Semana4/Data/Model
 Semana4/Data/Reviews.csv
 Semana4/GPT2_trips.ipynb
