@@ -1,6 +1,6 @@
 ![Bourbaki](https://github.com/contepablod/NLP_Bourbaki/assets/80008587/70d3e8d5-407f-4c90-8e50-98d391612a1d)
 
-![TemarioNLP](https://github.com/contepablod/NLP_Bourbaki/assets/80008587/4da9e687-71d4-4a87-8923-ccbe242ee978)
+![TemarioNLP](https://github.com/user-attachments/assets/d4a09bd4-a2f2-46da-8329-3ad7484f78db)
 
 ![Matematicas](https://github.com/contepablod/NLP_Bourbaki/assets/80008587/e672df76-173e-46e7-b835-74b900f68eb0)
 
