@@ -200,8 +200,9 @@ Semana1/clasificador_quejas_consumidor.ipynb
 Semana1/Data/Instrucciones
 Semana1/Data/complaints.csv
 Semana1/preprocesar_vectorizar_textos_contfidf.ipynb
-Semana3/
 Semana4/
+Semana3/Data/Instrucciones
+Semana3/Data/Model/
 Semana3/Data/Reviews.csv
 Semana3/Data/Model/s2s_model_2.pth
 Semana3/Data/Model/s2s_model.pth
