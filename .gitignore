@@ -200,7 +200,7 @@ Semana1/clasificador_quejas_consumidor.ipynb
 Semana1/Data/Instrucciones
 Semana1/Data/complaints.csv
 Semana1/preprocesar_vectorizar_textos_contfidf.ipynb
-Semana4/
+Semana2/Data/JM
 Semana3/Data/Instrucciones
 Semana3/Data/Model/
 Semana3/Data/Reviews.csv
@@ -209,13 +209,16 @@ Semana3/Data/Model/s2s_model.pth
 Semana3/Data/Model/x_train.csv
 Semana3/Data/Model/y_train.csv
 Semana3/Data/Model/glove.6B.300d.txt
-Semana4/Data/Model
-Semana4/Data/Reviews.csv
-Semana4/GPT2_trips.ipynb
-Semana4/intro_gpt copy.ipynb
-Semana4/summarization_using_GPT2_supervised copy.ipynb
-Semana4/summarization_using_GPT2_self_supervised.ipynb
-Semana4/summarization_using_GPT2_supervised.ipynb
-Semana4/distilgpt2-finetuned-microbiology
+Semana4/aida-yago2-dataset.zip
+Semana4/aida_means.tsv.bz2
+Semana4/aida_means.tsv
+Semana4/best_lstm.pt
+Semana4/Data
+Semana4/aida_yago2
+Semana4/data
+Semana4/models
+Semana4/intro_gpt.ipynb
+Semana4/microbology_text_gen.ipynb
+Semana4/NED_LSTM_Att.ipynb
 Semana5/
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
