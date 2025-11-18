@@ -220,4 +220,6 @@ Semana4/models
 Semana4/intro_gpt.ipynb
 Semana4/microbology_text_gen.ipynb
 Semana5/Data/Reviews.csv
+Semana5/tinyllama-tech-lora/
+Semana5/Data/hn_articles.json
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
