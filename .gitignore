@@ -221,5 +221,10 @@ Semana4/intro_gpt.ipynb
 Semana4/microbology_text_gen.ipynb
 Semana5/Data/Reviews.csv
 Semana5/tinyllama-tech-lora/
+Semana5/tinyllama-ultrafeedback-lora-
 Semana5/Data/hn_articles.json
+Semana5/tinyllama-ultrafeedback-lora
+Semana5/tinyllama-ultrafeedback-lora-adapter
+Semana5/hn_data.ipynb
+Semana5/Data/qa_data.json
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode
